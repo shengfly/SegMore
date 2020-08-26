@@ -3,3 +3,7 @@
 
 # Segmentation with intermediate attention
 - Embedding Attention and Residual Network for  Accurate Salient Object Detection TIP2020
+
+# label decouple
+
+- Label Decoupling Framework for Salient Object Detection [`paper`](https://arxiv.org/pdf/2008.11048.pdf)[`github`](https://github.com/weijun88/LDF)
