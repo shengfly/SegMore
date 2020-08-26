@@ -7,4 +7,5 @@
 # label decouple
 
 - Label Decoupling Framework for Salient Object Detection [`paper`](https://arxiv.org/pdf/2008.11048.pdf)[`github`](https://github.com/weijun88/LDF)
-- Triple U-net: Hematoxylin-aware nuclei segmentation with progressive dense feature aggregation MeIA202
+- Triple U-net: Hematoxylin-aware nuclei segmentation with progressive dense feature aggregation MeIA2020
+- DeepDistance: A multi-task deep regression model for cell detection in inverted microscopy images MeIA2020
