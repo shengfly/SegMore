@@ -12,3 +12,4 @@
 
 # local-global Net
 - Collaborative global-local networks for memory-efficient segmentation of ultra-high resolution images [`paper`](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Collaborative_Global-Local_Networks_for_Memory-Efficient_Segmentation_of_Ultra-High_Resolution_Images_CVPR_2019_paper.pdf)
+- Towards High-Resolution Salient Object Detection [`paper`](https://arxiv.org/pdf/1908.07274.pdf)
